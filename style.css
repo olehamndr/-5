@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f9f1;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #2d3436;
+}
+
+.zone {
+  background: #ffffff;
+  border-left: 8px solid #27ae60;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 700px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+}
+
+.zone .icon {
+  font-size: 28px;
+  margin-right: 10px;
+}
+
+.zone h2 {
+  color: #27ae60;
+  margin: 0 0 10px 0;
+}
+
+.impact {
+  font-weight: bold;
+  color: #c0392b;
+  margin-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #2980b9;
+}
+
+a:hover {
+  text-decoration: underline;
+}
